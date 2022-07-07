@@ -23,7 +23,7 @@ Program will take 2 command line parameters:
 - To run as a client listening on port 4322<br>
 `$ ./assignment1 c 4322`
 
-The source code can be found in `sagarjit/src/sagarjit_assignment1.c`. The screenshot for each command can be found in the report named `PA1_report.pdf`.
+The source code can be found in `anujarag/src/anujarag_assignment1.c`. The screenshot for each command can be found in the report named `PA1_report.pdf`.
 
 ## Collaborator:
 - Anuja Katkar
