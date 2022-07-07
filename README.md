@@ -26,5 +26,5 @@ Program will take 2 command line parameters:
 The source code can be found in `sagarjit/src/sagarjit_assignment1.c`. The screenshot for each command can be found in the report named `PA1_report.pdf`.
 
 ## Collaborator:
-- Pushkaraj Joshi
-- Sagar Thacker
+- Anuja Katkar
+- Anup Thakkar
